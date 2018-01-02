@@ -1,0 +1,9 @@
+version: '3'
+services:
+  nginx:
+    build: ./proxy
+    ports:
+      - "5006:80"
+  bokeh-app:
+    build: ./app
+    command: bokeh serve country-comp --allow-websocket-origin="*"

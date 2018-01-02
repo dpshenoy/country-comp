@@ -1,0 +1,241 @@
+country,region,continent,govtform,surfacearea,indepyear,lifeexpectancy,per_cap_gnp,color,alpha
+Afghanistan,Southern and Central Asia,Asia,Islamic Emirate,652090.0,1919.0,45.9,263.0281690140845,grey,0.25
+Netherlands,Western Europe,Europe,Constitutional Monarchy,41526.0,1581.0,78.3,23409.102370146244,grey,0.25
+Netherlands Antilles,Caribbean,North America,Nonmetropolitan Territory of The Netherlands,800.0,,74.7,8944.700460829494,grey,0.25
+Albania,Southern Europe,Europe,Republic,28748.0,1912.0,71.6,942.3144772433259,grey,0.25
+Algeria,Northern Africa,Africa,Republic,2381740.0,1962.0,69.7,1588.1923040259287,grey,0.25
+American Samoa,Polynesia,Oceania,US Territory,199.0,,75.1,4911.764705882353,grey,0.25
+Andorra,Southern Europe,Europe,Parliamentary Coprincipality,468.0,1278.0,83.5,20897.4358974359,grey,0.25
+Angola,Central Africa,Africa,Republic,1246700.0,1975.0,38.3,516.2292281410157,grey,0.25
+Anguilla,Caribbean,North America,Dependent Territory of the UK,96.0,,76.1,7900.0,grey,0.25
+Antigua and Barbuda,Caribbean,North America,Constitutional Monarchy,442.0,1981.0,70.5,9000.0,grey,0.25
+United Arab Emirates,Middle East,Asia,Emirate Federation,83600.0,1971.0,74.1,15553.46169602622,grey,0.25
+Argentina,South America,South America,Federal Republic,2780400.0,1816.0,75.1,9187.675523871247,grey,0.25
+Armenia,Middle East,Asia,Republic,29800.0,1991.0,66.4,515.0568181818181,grey,0.25
+Aruba,Caribbean,North America,Nonmetropolitan Territory of The Netherlands,193.0,,78.4,8038.834951456311,grey,0.25
+Australia,Australia and New Zealand,Oceania,"Constitutional Monarchy, Federation",7741220.0,1901.0,79.8,18594.832150799535,grey,0.25
+Azerbaijan,Middle East,Asia,Federal Republic,86600.0,1991.0,62.9,533.6177915696923,grey,0.25
+Bahamas,Caribbean,North America,Constitutional Monarchy,13878.0,1973.0,71.1,11488.599348534202,grey,0.25
+Bahrain,Middle East,Asia,Monarchy (Emirate),694.0,1971.0,73.0,10317.666126418153,grey,0.25
+Bangladesh,Southern and Central Asia,Asia,Republic,143998.0,1971.0,60.2,254.36103906159266,grey,0.25
+Barbados,Caribbean,North America,Constitutional Monarchy,430.0,1966.0,73.0,8233.333333333334,grey,0.25
+Belgium,Western Europe,Europe,"Constitutional Monarchy, Federation",30518.0,1830.0,77.8,24387.537845492723,grey,0.25
+Belize,Central America,North America,Constitutional Monarchy,22696.0,1981.0,70.9,2614.1078838174276,grey,0.25
+Benin,Western Africa,Africa,Republic,112622.0,1960.0,50.2,386.5835656880433,grey,0.25
+Bermuda,North America,North America,Dependent Territory of the UK,53.0,,76.9,35815.38461538462,grey,0.25
+Bhutan,Southern and Central Asia,Asia,Monarchy,47000.0,1910.0,52.4,175.14124293785312,grey,0.25
+Bolivia,South America,South America,Republic,1098580.0,1825.0,63.7,1029.0551086565015,grey,0.25
+Bosnia and Herzegovina,Southern Europe,Europe,Federal Republic,51197.0,1992.0,71.5,715.2567975830816,grey,0.25
+Botswana,Southern Africa,Africa,Republic,581730.0,1966.0,39.3,2980.271270036991,grey,0.25
+Brazil,South America,South America,Federal Republic,8547400.0,1822.0,62.9,4565.96420068777,grey,0.25
+United Kingdom,British Islands,Europe,Constitutional Monarchy,242900.0,1066.0,77.7,23117.266039843416,grey,0.25
+"Virgin Islands, British",Caribbean,North America,Dependent Territory of the UK,151.0,,75.4,29142.85714285714,grey,0.25
+Brunei,Southeast Asia,Asia,Monarchy (Sultanate),5765.0,1984.0,73.6,35685.9756097561,grey,0.25
+Bulgaria,Eastern Europe,Europe,Republic,110994.0,1908.0,70.9,1486.7719054072202,grey,0.25
+Burkina Faso,Western Africa,Africa,Republic,274000.0,1960.0,46.7,203.1498701516294,grey,0.25
+Burundi,Eastern Africa,Africa,Republic,27834.0,1962.0,46.2,134.87677371172518,grey,0.25
+Cayman Islands,Caribbean,North America,Dependent Territory of the UK,264.0,,78.9,33236.84210526316,grey,0.25
+Chile,South America,South America,Republic,756626.0,1810.0,75.7,4795.805666951548,grey,0.25
+Cook Islands,Polynesia,Oceania,Nonmetropolitan Territory of New Zealand,236.0,,71.1,5000.0,grey,0.25
+Costa Rica,Central America,North America,Republic,51100.0,1821.0,75.8,2541.88416604524,grey,0.25
+Djibouti,Eastern Africa,Africa,Republic,23200.0,1977.0,50.8,598.7460815047021,grey,0.25
+Dominica,Caribbean,North America,Republic,751.0,1978.0,73.4,3605.6338028169016,grey,0.25
+Dominican Republic,Caribbean,North America,Republic,48511.0,1844.0,73.2,1865.3325485579753,grey,0.25
+Ecuador,South America,South America,Republic,283561.0,1822.0,71.1,1563.3401866202753,grey,0.25
+Egypt,Northern Africa,Africa,Republic,1001450.0,1922.0,63.3,1207.9742953118155,grey,0.25
+El Salvador,Central America,North America,Republic,21041.0,1841.0,69.7,1890.2166985340982,grey,0.25
+Eritrea,Eastern Africa,Africa,Republic,117600.0,1993.0,55.8,168.83116883116884,grey,0.25
+Spain,Southern Europe,Europe,Constitutional Monarchy,505992.0,1492.0,78.8,14026.60128746986,grey,0.25
+South Africa,Southern Africa,Africa,Republic,1221040.0,1910.0,51.1,2890.9775367164475,grey,0.25
+Ethiopia,Eastern Africa,Africa,Republic,1104300.0,-1000.0,45.2,101.54239590825541,grey,0.25
+Falkland Islands,South America,South America,Dependent Territory of the UK,12173.0,,,0.0,grey,0.25
+Fiji Islands,Melanesia,Oceania,Republic,18274.0,1970.0,67.9,1880.0489596083232,grey,0.25
+Philippines,Southeast Asia,Asia,Republic,300000.0,1946.0,67.5,857.0431898061,grey,0.25
+Faroe Islands,Nordic Countries,Europe,Part of Denmark,1399.0,,78.4,0.0,grey,0.25
+Gabon,Central Africa,Africa,Republic,267668.0,1960.0,50.1,4480.424143556281,grey,0.25
+Gambia,Western Africa,Africa,Republic,11295.0,1965.0,53.2,245.21072796934865,grey,0.25
+Georgia,Middle East,Asia,Republic,69700.0,1991.0,64.5,1220.6119162640903,grey,0.25
+Ghana,Western Africa,Africa,Republic,238533.0,1957.0,57.4,353.10706510983573,grey,0.25
+Gibraltar,Southern Europe,Europe,Dependent Territory of the UK,6.0,,79.0,10320.0,grey,0.25
+Grenada,Caribbean,North America,Constitutional Monarchy,344.0,1974.0,64.5,3382.978723404255,grey,0.25
+Greenland,North America,North America,Part of Denmark,2166090.0,,68.1,0.0,grey,0.25
+Guadeloupe,Caribbean,North America,Overseas Department of France,1705.0,,77.0,7677.631578947368,grey,0.25
+Guam,Micronesia,Oceania,US Territory,549.0,,77.8,7125.0,grey,0.25
+Guatemala,Central America,North America,Republic,108889.0,1821.0,66.2,1669.5652173913043,grey,0.25
+Guinea,Western Africa,Africa,Republic,245857.0,1958.0,45.6,316.55450874831763,grey,0.25
+Guinea-Bissau,Western Africa,Africa,Republic,36125.0,1974.0,49.0,241.54987633965376,grey,0.25
+Guyana,South America,South America,Republic,214969.0,1966.0,64.0,838.5598141695702,grey,0.25
+Haiti,Caribbean,North America,Republic,27750.0,1804.0,49.2,420.7005594745804,grey,0.25
+Honduras,Central America,North America,Republic,112088.0,1838.0,69.9,822.3592906707787,grey,0.25
+Hong Kong,Eastern Asia,Asia,Special Administrative Region of China,1075.0,,79.5,24542.612798584487,grey,0.25
+Svalbard and Jan Mayen,Nordic Countries,Europe,Dependent Territory of Norway,62422.0,,,0.0,grey,0.25
+Indonesia,Southeast Asia,Asia,Republic,1904570.0,1945.0,68.0,400.65627254168885,grey,0.25
+India,Southern and Central Asia,Asia,Federal Republic,3287260.0,1947.0,62.5,441.08785768826294,grey,0.25
+Iraq,Middle East,Asia,Republic,438317.0,1932.0,66.5,497.5124378109453,grey,0.25
+Iran,Southern and Central Asia,Asia,Islamic Republic,1648200.0,1906.0,69.7,2891.28829281262,grey,0.25
+Ireland,British Islands,Europe,Republic,70273.0,1921.0,76.8,20110.99043733941,grey,0.25
+Iceland,Nordic Countries,Europe,Republic,103000.0,1944.0,79.4,29587.813620071684,grey,0.25
+Israel,Middle East,Asia,Republic,21056.0,1948.0,78.6,15679.105677979733,grey,0.25
+Italy,Southern Europe,Europe,Republic,301316.0,1861.0,79.0,20141.38349514563,grey,0.25
+East Timor,Southeast Asia,Asia,Administrated by the UN,14874.0,,46.0,0.0,grey,0.25
+Austria,Western Europe,Europe,Federal Republic,83859.0,1918.0,77.7,26182.06085172644,grey,0.25
+Jamaica,Caribbean,North America,Constitutional Monarchy,10990.0,1962.0,75.2,2660.085172280294,grey,0.25
+Japan,Eastern Asia,Asia,Constitutional Monarchy,377829.0,-660.0,80.7,29886.531874930948,grey,0.25
+Yemen,Middle East,Asia,Republic,527968.0,1918.0,59.8,333.535777385159,grey,0.25
+Jordan,Middle East,Asia,Constitutional Monarchy,88946.0,1946.0,77.4,1480.6216801101712,grey,0.25
+Christmas Island,Australia and New Zealand,Oceania,Territory of Australia,135.0,,,0.0,grey,0.25
+Yugoslavia,Southern Europe,Europe,Federal Republic,102173.0,1918.0,72.4,1597.7443609022557,grey,0.25
+Cambodia,Southeast Asia,Asia,Constitutional Monarchy,181035.0,1953.0,56.5,458.54226361031516,grey,0.25
+Cameroon,Central Africa,Africa,Republic,475442.0,1960.0,54.8,608.1537951607557,grey,0.25
+Canada,North America,North America,"Constitutional Monarchy, Federation",9970610.0,1867.0,79.4,19226.956047131345,grey,0.25
+Cape Verde,Western Africa,Africa,Republic,4033.0,1975.0,68.9,1016.3551401869158,grey,0.25
+Kazakstan,Southern and Central Asia,Asia,Republic,2724900.0,1991.0,63.2,1502.4964556493867,grey,0.25
+Kenya,Eastern Africa,Africa,Republic,580367.0,1963.0,48.0,306.41622340425533,grey,0.25
+Central African Republic,Central Africa,Africa,Republic,622984.0,1960.0,44.0,291.56293222683263,grey,0.25
+China,Eastern Asia,Asia,People'sRepublic,9572900.0,-1523.0,71.4,768.8637228211948,grey,0.25
+Kyrgyzstan,Southern and Central Asia,Asia,Republic,199900.0,1991.0,63.4,346.0310704405193,grey,0.25
+Kiribati,Micronesia,Oceania,Republic,726.0,1979.0,59.8,490.3614457831325,grey,0.25
+Colombia,South America,South America,Republic,1138910.0,1810.0,70.3,2431.3225112828145,grey,0.25
+Comoros,Eastern Africa,Africa,Republic,1862.0,1975.0,60.0,7614.186851211072,grey,0.25
+Congo,Central Africa,Africa,Republic,342000.0,1960.0,47.4,716.2759089364594,grey,0.25
+"Congo, The Democratic Republic of the",Central Africa,Africa,Republic,2344860.0,1960.0,48.8,134.82014945599568,grey,0.25
+Cocos (Keeling) Islands,Australia and New Zealand,Oceania,Territory of Australia,14.0,,,0.0,grey,0.25
+North Korea,Eastern Asia,Asia,Socialistic Republic,120538.0,1948.0,70.7,221.8062315404135,grey,0.25
+South Korea,Eastern Asia,Asia,Republic,99434.0,1948.0,74.4,6847.173597472462,grey,0.25
+Greece,Southern Europe,Europe,Republic,131626.0,1830.0,78.4,11447.699062177002,grey,0.25
+Croatia,Southern Europe,Europe,Republic,56538.0,1991.0,73.7,4517.773306505701,grey,0.25
+Cuba,Caribbean,North America,Socialistic Republic,110861.0,1902.0,76.2,1592.9827693955897,grey,0.25
+Kuwait,Middle East,Asia,Constitutional Monarchy (Emirate),17818.0,1961.0,76.1,13710.446247464502,grey,0.25
+Cyprus,Middle East,Asia,Republic,9251.0,1960.0,76.7,12366.503246323042,grey,0.25
+Laos,Southeast Asia,Asia,Republic,236800.0,1953.0,53.1,237.80600036812075,grey,0.25
+Latvia,Baltic Countries,Europe,Republic,64589.0,1991.0,68.4,2639.2211863707616,grey,0.25
+Lesotho,Southern Africa,Africa,Constitutional Monarchy,30355.0,1966.0,50.8,492.8007431490943,grey,0.25
+Lebanon,Middle East,Asia,Republic,10400.0,1941.0,71.3,5216.636197440585,grey,0.25
+Liberia,Western Africa,Africa,Republic,111369.0,1847.0,51.0,637.9201014584654,grey,0.25
+Libyan Arab Jamahiriya,Northern Africa,Africa,Socialistic State,1759540.0,1951.0,75.5,7993.933987511151,grey,0.25
+Liechtenstein,Western Europe,Europe,Constitutional Monarchy,160.0,1806.0,78.8,34643.96284829721,grey,0.25
+Lithuania,Baltic Countries,Europe,Republic,65301.0,1991.0,69.1,2890.9017169122617,grey,0.25
+Luxembourg,Western Europe,Europe,Constitutional Monarchy,2586.0,1867.0,77.1,37459.260959375715,grey,0.25
+Western Sahara,Northern Africa,Africa,Occupied by Marocco,266000.0,,49.8,204.77815699658703,grey,0.25
+Macao,Eastern Asia,Asia,Special Administrative Region of China,18.0,,81.6,12154.334038054969,grey,0.25
+Madagascar,Eastern Africa,Africa,Federal Republic,587041.0,1960.0,55.0,235.22770041400076,grey,0.25
+Macedonia,Southern Europe,Europe,Republic,25713.0,1991.0,73.8,836.9565217391304,grey,0.25
+Malawi,Eastern Africa,Africa,Republic,118484.0,1964.0,37.6,154.41647597254004,grey,0.25
+Maldives,Southern and Central Asia,Asia,Republic,298.0,1965.0,62.2,695.8041958041958,grey,0.25
+Malaysia,Southeast Asia,Asia,"Constitutional Monarchy, Federation",329758.0,1957.0,70.8,3111.5356950188816,grey,0.25
+Mali,Western Africa,Africa,Republic,1240190.0,1960.0,46.7,235.17892113227703,grey,0.25
+Malta,Southern Europe,Europe,Republic,316.0,1964.0,77.9,9237.243556023146,grey,0.25
+Morocco,Northern Africa,Africa,Constitutional Monarchy,446550.0,1956.0,69.1,1274.1702232725477,grey,0.25
+Marshall Islands,Micronesia,Oceania,Republic,181.0,1990.0,65.5,1515.625,grey,0.25
+Martinique,Caribbean,North America,Overseas Department of France,1102.0,,78.3,6913.9240506329115,grey,0.25
+Mauritania,Western Africa,Africa,Republic,1025520.0,1960.0,50.8,373.78277153558054,grey,0.25
+Mauritius,Eastern Africa,Africa,Republic,2040.0,1968.0,71.0,3670.984455958549,grey,0.25
+Mayotte,Eastern Africa,Africa,Territorial Collectivity of France,373.0,,59.5,0.0,grey,0.25
+Mexico,Central America,North America,Federal Republic,1958200.0,1810.0,71.5,4196.680858810085,grey,0.25
+"Micronesia, Federated States of",Micronesia,Oceania,Federal Republic,702.0,1990.0,68.6,1781.5126050420167,grey,0.25
+Moldova,Eastern Europe,Europe,Republic,33851.0,1991.0,64.5,360.50228310502285,grey,0.25
+Monaco,Western Europe,Europe,Constitutional Monarchy,1.5,1861.0,78.8,22823.529411764706,grey,0.25
+Mongolia,Eastern Asia,Asia,Republic,1566500.0,1921.0,67.3,391.8106686701728,grey,0.25
+Montserrat,Caribbean,North America,Dependent Territory of the UK,102.0,,78.0,9909.09090909091,grey,0.25
+Mozambique,Eastern Africa,Africa,Republic,801590.0,1975.0,37.5,146.90040650406505,grey,0.25
+Myanmar,Southeast Asia,Asia,Republic,676578.0,1948.0,54.9,3954.63813553748,grey,0.25
+Namibia,Southern Africa,Africa,Republic,824292.0,1990.0,42.5,1796.6396292004636,grey,0.25
+Nauru,Micronesia,Oceania,Republic,21.0,1968.0,60.8,16416.666666666668,grey,0.25
+Nepal,Southern and Central Asia,Asia,Constitutional Monarchy,147181.0,1769.0,57.8,199.2478061011283,grey,0.25
+Nicaragua,Central America,North America,Republic,130000.0,1838.0,68.7,391.80134016554985,grey,0.25
+Niger,Western Africa,Africa,Republic,1267000.0,1960.0,41.3,158.99347623485554,grey,0.25
+Nigeria,Western Africa,Africa,Federal Republic,923768.0,1960.0,51.6,589.2687389019425,grey,0.25
+Niue,Polynesia,Oceania,Nonmetropolitan Territory of New Zealand,260.0,,,0.0,grey,0.25
+Norfolk Island,Australia and New Zealand,Oceania,Territory of Australia,36.0,,,0.0,grey,0.25
+Norway,Nordic Countries,Europe,Constitutional Monarchy,323877.0,1905.0,78.7,32576.755610137323,grey,0.25
+Côte dIvoire,Western Africa,Africa,Republic,322463.0,1960.0,45.2,767.2798593263898,grey,0.25
+Oman,Middle East,Asia,Monarchy (Sultanate),309500.0,1951.0,71.8,6649.881982690795,grey,0.25
+Pakistan,Southern and Central Asia,Asia,Republic,796095.0,1947.0,61.1,391.66554833432383,grey,0.25
+Palau,Micronesia,Oceania,Republic,459.0,1994.0,68.6,5526.315789473684,grey,0.25
+Panama,Central America,North America,Republic,75517.0,1903.0,75.5,3197.1288515406163,grey,0.25
+Papua New Guinea,Melanesia,Oceania,Constitutional Monarchy,462840.0,1975.0,63.1,1037.6534220927813,grey,0.25
+Paraguay,South America,South America,Republic,406752.0,1811.0,73.7,1536.3901018922852,grey,0.25
+Peru,South America,South America,Republic,1285220.0,1821.0,70.0,2499.4154781388825,grey,0.25
+Pitcairn,Polynesia,Oceania,Dependent Territory of the UK,49.0,,,0.0,grey,0.25
+Northern Mariana Islands,Micronesia,Oceania,Commonwealth of the US,464.0,,75.5,0.0,grey,0.25
+Portugal,Southern Europe,Europe,Republic,91982.0,1143.0,75.8,10597.943506441547,grey,0.25
+Puerto Rico,Caribbean,North America,Commonwealth of the US,8875.0,,75.6,8813.646937193073,grey,0.25
+Poland,Eastern Europe,Europe,Republic,323250.0,1918.0,73.2,3924.524494484343,grey,0.25
+Equatorial Guinea,Central Africa,Africa,Republic,28051.0,1968.0,53.6,624.7240618101546,grey,0.25
+Qatar,Middle East,Asia,Monarchy,11000.0,1971.0,72.4,15813.021702838063,grey,0.25
+France,Western Europe,Europe,Republic,551500.0,843.0,78.8,24048.428300551957,grey,0.25
+French Guiana,South America,South America,Overseas Department of France,90000.0,,76.1,3762.4309392265195,grey,0.25
+French Polynesia,Polynesia,Oceania,Nonmetropolitan Territory of France,4000.0,,74.8,3480.851063829787,grey,0.25
+Réunion,Eastern Africa,Africa,Overseas Department of France,2510.0,,72.7,11855.507868383405,grey,0.25
+Romania,Eastern Europe,Europe,Republic,238391.0,1878.0,69.9,1699.2718933000824,grey,0.25
+Rwanda,Eastern Africa,Africa,Republic,26338.0,1962.0,39.3,263.2872106556317,grey,0.25
+Sweden,Nordic Countries,Europe,Constitutional Monarchy,449964.0,836.0,79.6,25559.392421062134,grey,0.25
+Saint Helena,Western Africa,Africa,Dependent Territory of the UK,314.0,,76.8,0.0,grey,0.25
+Saint Kitts and Nevis,Caribbean,North America,Constitutional Monarchy,261.0,1983.0,70.7,7868.421052631579,grey,0.25
+Saint Lucia,Caribbean,North America,Constitutional Monarchy,622.0,1979.0,72.3,3707.7922077922076,grey,0.25
+Saint Vincent and the Grenadines,Caribbean,North America,Constitutional Monarchy,388.0,1979.0,72.3,2500.0,grey,0.25
+Saint Pierre and Miquelon,North America,North America,Territorial Collectivity of France,242.0,,77.6,0.0,grey,0.25
+Germany,Western Europe,Europe,Federal Republic,357022.0,1955.0,77.4,25964.520043278928,grey,0.25
+Solomon Islands,Melanesia,Oceania,Constitutional Monarchy,28896.0,1978.0,71.3,409.9099099099099,grey,0.25
+Zambia,Eastern Africa,Africa,Republic,752618.0,1964.0,37.2,368.30624931835536,grey,0.25
+Samoa,Polynesia,Oceania,Parlementary Monarchy,2831.0,1962.0,69.2,783.3333333333334,grey,0.25
+San Marino,Southern Europe,Europe,Republic,61.0,885.0,81.1,18888.88888888889,grey,0.25
+Sao Tome and Principe,Central Africa,Africa,Republic,964.0,1975.0,65.3,40.816326530612244,grey,0.25
+Saudi Arabia,Middle East,Asia,Monarchy,2149690.0,1932.0,67.8,6369.926412736613,grey,0.25
+Senegal,Western Africa,Africa,Republic,196722.0,1960.0,62.2,504.9045459339732,grey,0.25
+Seychelles,Eastern Africa,Africa,Republic,455.0,1976.0,70.4,6961.038961038961,grey,0.25
+Sierra Leone,Western Africa,Africa,Republic,71740.0,1961.0,45.3,153.68768026370003,grey,0.25
+Singapore,Southeast Asia,Asia,Republic,618.0,1965.0,80.1,24250.911129800952,grey,0.25
+Slovakia,Eastern Europe,Europe,Republic,49012.0,1993.0,73.7,3814.6220386389314,grey,0.25
+Slovenia,Southern Europe,Europe,Republic,20256.0,1991.0,74.9,9938.625616259182,grey,0.25
+Somalia,Eastern Africa,Africa,Republic,637657.0,1960.0,46.2,92.60176289987125,grey,0.25
+Sri Lanka,Southern and Central Asia,Asia,Republic,65610.0,1948.0,71.8,834.2274393158762,grey,0.25
+Sudan,Northern Africa,Africa,Islamic Republic,2505810.0,1956.0,56.6,344.5913869108172,grey,0.25
+Finland,Nordic Countries,Europe,Republic,338145.0,1917.0,77.4,23575.11650842148,grey,0.25
+Suriname,South America,South America,Republic,163265.0,1975.0,71.4,2086.3309352517986,grey,0.25
+Swaziland,Southern Africa,Africa,Monarchy,17364.0,1968.0,40.4,1196.4285714285713,grey,0.25
+Switzerland,Western Europe,Europe,Federation,41284.0,1499.0,79.6,36936.20468130272,grey,0.25
+Syria,Middle East,Asia,Republic,185180.0,1941.0,68.5,4092.031007751938,grey,0.25
+Tajikistan,Southern and Central Asia,Asia,Republic,143100.0,1991.0,64.1,321.590174531351,grey,0.25
+Taiwan,Eastern Asia,Asia,Republic,36188.0,1945.0,76.4,11513.928828181164,grey,0.25
+Tanzania,Eastern Africa,Africa,Republic,883749.0,1961.0,52.3,238.83402452486797,grey,0.25
+Denmark,Nordic Countries,Europe,Constitutional Monarchy,43094.0,800.0,76.5,32663.977485928706,grey,0.25
+Thailand,Southeast Asia,Asia,Constitutional Monarchy,513115.0,1350.0,68.6,1896.0569390380952,grey,0.25
+Togo,Western Africa,Africa,Republic,56785.0,1960.0,54.7,313.02657161373946,grey,0.25
+Tokelau,Polynesia,Oceania,Nonmetropolitan Territory of New Zealand,12.0,,,0.0,grey,0.25
+Tonga,Polynesia,Oceania,Monarchy,650.0,1970.0,67.9,1474.7474747474748,grey,0.25
+Trinidad and Tobago,Caribbean,North America,Republic,5130.0,1962.0,68.0,4812.355212355213,grey,0.25
+Chad,Central Africa,Africa,Republic,1284000.0,1960.0,50.5,157.8878577963665,grey,0.25
+Czech Republic,Eastern Europe,Europe,Republic,78866.0,1993.0,74.5,5352.837586713497,grey,0.25
+Tunisia,Northern Africa,Africa,Republic,163610.0,1956.0,73.7,2089.088253703317,grey,0.25
+Turkey,Middle East,Asia,Republic,774815.0,1923.0,71.0,3164.4066014926943,grey,0.25
+Turkmenistan,Southern and Central Asia,Asia,Republic,488100.0,1991.0,60.9,986.0955371159453,grey,0.25
+Turks and Caicos Islands,Caribbean,North America,Dependent Territory of the UK,430.0,,73.3,5647.058823529412,grey,0.25
+Tuvalu,Polynesia,Oceania,Constitutional Monarchy,26.0,1978.0,66.3,500.0,grey,0.25
+Uganda,Eastern Africa,Africa,Republic,241038.0,1962.0,42.9,289.879695105152,grey,0.25
+Ukraine,Eastern Europe,Europe,Republic,603700.0,1991.0,66.0,835.7380688124306,grey,0.25
+Hungary,Eastern Europe,Europe,Republic,93030.0,1918.0,71.4,4805.938346343794,grey,0.25
+Uruguay,South America,South America,Republic,175016.0,1828.0,75.2,6242.433323344321,grey,0.25
+New Caledonia,Melanesia,Oceania,Nonmetropolitan Territory of France,18575.0,,72.8,16649.532710280375,grey,0.25
+New Zealand,Australia and New Zealand,Oceania,Constitutional Monarchy,270534.0,1907.0,77.8,14155.618850336614,grey,0.25
+Uzbekistan,Southern and Central Asia,Asia,Republic,447400.0,1991.0,63.7,583.6828686569619,grey,0.25
+Belarus,Eastern Europe,Europe,Republic,207600.0,1991.0,68.0,1339.7811645173897,grey,0.25
+Wallis and Futuna,Polynesia,Oceania,Nonmetropolitan Territory of France,200.0,,,0.0,grey,0.25
+Vanuatu,Melanesia,Oceania,Republic,12189.0,1980.0,60.6,1373.6842105263158,grey,0.25
+Holy See (Vatican City State),Southern Europe,Europe,Independent Church State,0.4,1929.0,,9000.0,grey,0.25
+Venezuela,South America,South America,Federal Republic,912050.0,1811.0,73.1,3931.443938767067,grey,0.25
+Russian Federation,Eastern Europe,Europe,Federal Republic,17075400.0,1991.0,67.2,1882.5322934106468,grey,0.25
+Vietnam,Southeast Asia,Asia,Socialistic Republic,331689.0,1945.0,69.3,274.68934763002306,grey,0.25
+Estonia,Baltic Countries,Europe,Republic,45227.0,1991.0,69.5,3702.0566981656475,grey,0.25
+United States,North America,North America,Federal Republic,9363520.0,1776.0,77.1,30574.765498981524,grey,0.25
+"Virgin Islands, U.S.",Caribbean,North America,US Territory,347.0,,78.1,0.0,grey,0.25
+Zimbabwe,Eastern Africa,Africa,Republic,390757.0,1980.0,37.8,509.98371754220585,grey,0.25
+Palestine,Middle East,Asia,Autonomous Area,6257.0,,71.4,1345.694937117059,grey,0.25
+Antarctica,Antarctica,Antarctica,Co-administrated,13120000.0,,,,grey,0.25
+Bouvet Island,Antarctica,Antarctica,Dependent Territory of Norway,59.0,,,,grey,0.25
+British Indian Ocean Territory,Eastern Africa,Africa,Dependent Territory of the UK,78.0,,,,grey,0.25
+South Georgia and the South Sandwich Islands,Antarctica,Antarctica,Dependent Territory of the UK,3903.0,,,,grey,0.25
+Heard Island and McDonald Islands,Antarctica,Antarctica,Territory of Australia,359.0,,,,grey,0.25
+French Southern territories,Antarctica,Antarctica,Nonmetropolitan Territory of France,7780.0,,,,grey,0.25
+United States Minor Outlying Islands,Micronesia/Caribbean,Oceania,Dependent Territory of the US,16.0,,,,grey,0.25
+All,All,All,All,0.0,0.0,0.0,0.0,All,0.0
