@@ -23,7 +23,26 @@ Start the two containers running with:
 ```
 $ make up
 ```
-The `make up` command starts the containers and issues a **docker ps** command to confirm their status. There won't be any ports info for the bokeh-app container since connections to it are proxied by nginx. Browse to port 5006 on the host. For example, if you are running the containers on a remote machine reachable on your network at 10.20.30.40 then browse to `http://10.20.30.40:5006` to use the app.
+The `make up` command starts the containers and issues a **docker ps** command to confirm their status:
+
+    $ make up
+    ------------------------------------
+    - Start country-comp app container -
+    ------------------------------------
+    docker-compose up -d
+    Creating network "countrycomp_default" with the default driver
+    Creating countrycomp_bokeh-app_1 ... done
+    Creating countrycomp_nginx_1     ... done
+    sleep 1
+    docker ps
+    CONTAINER ID        IMAGE                   COMMAND                  CREATED                  STATUS              PORTS                  NAMES
+    94ee3ac07822        countrycomp_bokeh-app   "bokeh serve country…"   Less than a second ago   Up 1 second                                countrycomp_bokeh-app_1
+    4bafbe65d634        countrycomp_nginx       "nginx -g 'daemon of…"   Less than a second ago   Up 2 seconds        0.0.0.0:5006->80/tcp   countrycomp_nginx_1
+
+ There won't be any ports info for the bokeh-app container since connections to it are proxied by nginx. Browse to port 5006 on the host. For example, if you are running the containers on a remote machine reachable on your network at 10.20.30.40 then browse to `http://10.20.30.40:5006` to use the app. Here is what it looks like running locally:
+
+![running locally](https://raw.githubusercontent.com/dpshenoy/country-comp/master/screenshot.png)
+
 
 __3. Stop and Remove the Containers__
 
