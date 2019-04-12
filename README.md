@@ -1,3 +1,4 @@
+Note: This repository is no longer being maintained. Instead of bokeh's built in server, I now favor running a Python Flask app to `render_template` with the bokeh plot object converted to the text of `<script>` and `<div>` tags via [bokeh.embed.components](https://bokeh.pydata.org/en/latest/docs/reference/embed.html#bokeh.embed.components). I'm leaving this repo up for reminder purposes only.
 
 # Country-Comp
 
